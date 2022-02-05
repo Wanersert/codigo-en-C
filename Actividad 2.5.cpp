@@ -1,5 +1,8 @@
+//Prueba//
+
 #include <stdio.h>	//*Declaracion de bibliotecas*//
 #include <stdlib.h>	//*Declaracion de bibliotecas*//
+
 
 int a, b, c, d, e, f; //*Declaracion de variables*//
 
