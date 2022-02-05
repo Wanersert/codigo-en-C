@@ -1,6 +1,8 @@
 #include <stdio.h>	//*Declaracion de bibliotecas*//
 #include <stdlib.h>	//*Declaracion de bibliotecas*//
 
+//Dario Diaz Mayor
+
 int a, b, c, d, e, f; //*Declaracion de variables*//
 
 int main ()	//*Indica el inicio del cuerpo del programa*//
